@@ -1,0 +1,61 @@
+1. How are the controls?
+
+They're fine, though having the pause button as 'p' feels a bit awkward.
+
+2. How's the view?
+
+It's fine. It allows me to get a good view of the front.
+
+3. How's the Menu?
+
+It seems like all the essentials are there.
+There's a main menu, pause, game over and level cleared menu as there should be.
+They all work properly.
+
+4. How's the overall sense of speed?
+
+It's pretty nice overall. Doesn't start too slow and the speeding up feels great.
+However, it feels like it gets too quick too fast, but that may just be because of how short the levels are.
+
+5. How's the jumping?
+
+Very satisfying. Even the jump in the end has a nice feeling and doesn't feel too long.
+
+6. How's the strafing? Does it feel as it should in a skiing/slope game?
+
+The speed of the strafing is good.
+It evokes the feeling enough to make it feel like that type of game.
+
+7. Do you like the idea of building up and maintaining a good amount of speed as the goal?
+
+It works well, and the final jump is always fun.
+
+8. Are the levels frustrating or unfair?
+
+Not really, since they're short and not difficult.
+However, what's supposed to be the litter that slows you down wasn't too clear at first glance, even
+if we're being warned of litter in the "how to play."
+Maybe have a preview when a level is adding a new factor?
+That or make it more obvious.
+
+9. Is having the speed value uptop helpful?
+
+Yes, it's good to be able to keep track.
+It makes things less stressful and helps us with gauging how much speed we need for the finish ramp.
+
+10. How are the levels overall?
+
+Would be better if they were longer, that way they can also be more complex.
+Maybe make more use of ramps?
+A bit hard to see since there's so much white and the pellets are pretty big.
+Make the pellets smaller or change their material to make it easier to see.
+Big white pellets, the white capsule, bright blue platform and white platform underneath that
+makes it a bit hard to see. This is especially since we're going so fast.
+
+11. Comments? Suggestions?
+
+Longer levels.
+Maybe more ramps and other gimmicks/mechanics?
+Make things a bit easier to see.
+Maybe make the slow-down items more obvious?
+Sounds and music would be nice.

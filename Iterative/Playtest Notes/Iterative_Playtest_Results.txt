@@ -1,0 +1,22 @@
+Notes:
+- Levels should be longer
+- More levels and more variety if possible
+- Make things easier to see
+- Fundamentals and essentials are decently implemented
+- Sounds/music should be added
+
+Reflections:
+
+It seems that I managed to do some decent polish on the gameplay, mainly the strafing and jumping.
+The levels being wider rly helped and now the strafing feels much nicer.
+
+It seems I properly added the essential menus.
+
+Things I'll need to focus on for next time:
+
+-The levels should be longer and could use some more polish.
+I'll focus more on improving my levels with the mechanics I already have.
+
+-The visuals need some work since it's a bit hard to see and discern.
+
+-I should really add sounds/music.
